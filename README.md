@@ -7,7 +7,7 @@ Substack has become one of the most important platforms for independent writing,
 ---
 
 ## Contents
-
+- bebra
 - [Technology & Software Engineering](#technology--software-engineering)
 - [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
 - [Business & Startups](#business--startups)
